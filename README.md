@@ -1,4 +1,4 @@
-# CineLog — Personal Movie Tracker
+# FilmLog — Personal Movie Tracker
 
 A full-stack movie tracking app where you can search for films, build a watchlist, rate and review movies, and filter your collection.
 
